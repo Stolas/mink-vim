@@ -2,15 +2,15 @@ mink-vim
 ========
 
 
- ',
-    ,'
-    ,'
-   ,'
-  ,'    ,-'-,   ;.,   Mink VIM Plugin
-  '   .'  ,  ';', "   ---------------
-  ',.' )-' '(;''
-     '-      - 
-
+     ',
+        ,'
+        ,'
+       ,'
+      ,'    ,-'-,   ;.,   Mink VIM Plugin
+      '   .'  ,  ';', "   ---------------
+      ',.' )-' '(;''
+         '-      - 
+    
 Source Code Auditing plugin aimed at Vulnerability Research.
 This plugin aims to replace my current workflow of using grep, rats, ctags and vim.
 Besides that It is my first vim-script ever. So don't expect gold-mountains.
